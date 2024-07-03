@@ -1,0 +1,17 @@
+{
+  "name": "tpm_work",
+  "version": "1.0.0",
+  "description": "This is for Testing purpose!!!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.ts"
+  },
+  "author": "Sparsh Melody",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "nodemon": "^3.1.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  }
+}
